@@ -152,7 +152,7 @@ body {
 
 @media screen and (max-width: 768px) {
   .section__main-text {
-    padding-left: 20%;
+    padding-left: 10%;
     font-size: 180px;
   }
   .main__text {
@@ -167,6 +167,7 @@ body {
     height: 200px;
   }
   .img__one {
+    top: 120%;
     right: 5%;
   }
   .img__two {
