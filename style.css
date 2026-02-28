@@ -152,7 +152,7 @@ body {
 
 @media screen and (max-width: 768px) {
   .section__main-text {
-    padding-left: 10%;
+    padding-left: 50px;
     font-size: 180px;
   }
   .main__text {
