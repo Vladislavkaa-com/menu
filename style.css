@@ -152,6 +152,7 @@ body {
 
 @media screen and (max-width: 768px) {
   .section__main-text {
+    padding-left: 5%;
     font-size: 180px;
   }
   .main__text {
@@ -169,12 +170,15 @@ body {
     right: 5%;
   }
   .img__two {
+    top: 200%;
     left: 2%;
   }
   .img__three {
+    top: 300%;
     right: 5%;
   }
   .img__four {
+    top: 400%;
     left: 2%;
   }
   .section__div-one,
@@ -183,6 +187,17 @@ body {
   .section__div-four {
     padding: 40px 12px 40px 40px;
     max-width: 280px;
+  }
+  .section__div-two {
+    top: 210%;
+    right: 2%;
+  }
+  .section__div-three {
+    top: 310%;
+  }
+  .section__div-four {
+    top: 410%;
+    right: 2%;
   }
   .text__img-main {
     font-size: 28px;
