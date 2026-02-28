@@ -152,7 +152,7 @@ body {
 
 @media screen and (max-width: 768px) {
   .section__main-text {
-    padding-left: 5%;
+    padding-left: 20%;
     font-size: 180px;
   }
   .main__text {
@@ -170,16 +170,16 @@ body {
     right: 5%;
   }
   .img__two {
-    top: 200%;
-    left: 2%;
+    top: 260%;
+    left: 5%;
   }
   .img__three {
-    top: 300%;
+    top: 400%;
     right: 5%;
   }
   .img__four {
-    top: 400%;
-    left: 2%;
+    top: 550%;
+    left: 5%;
   }
   .section__div-one,
   .section__div-two,
@@ -189,14 +189,14 @@ body {
     max-width: 280px;
   }
   .section__div-two {
-    top: 210%;
+    top: 250%;
     right: 2%;
   }
   .section__div-three {
-    top: 310%;
+    top: 390%;
   }
   .section__div-four {
-    top: 410%;
+    top: 540%;
     right: 2%;
   }
   .text__img-main {
